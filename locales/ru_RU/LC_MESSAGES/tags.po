@@ -565,7 +565,7 @@ msgid "cuisine=crepe"
 msgstr "Блины"
 
 msgid "cuisine=curry"
-msgstr ""
+msgstr "Карри"
 
 msgid "cuisine=donut"
 msgstr "Пончики"
@@ -610,7 +610,7 @@ msgid "cuisine=pizza"
 msgstr "Пицца"
 
 msgid "cuisine=ramen"
-msgstr ""
+msgstr "Рамэн (японская лапша)"
 
 msgid "cuisine=regional"
 msgstr "Региональная"
@@ -622,7 +622,7 @@ msgid "cuisine=seafood"
 msgstr "Морепродукты"
 
 msgid "cuisine=soba"
-msgstr ""
+msgstr "Соба (японская лапша)"
 
 msgid "cuisine=spanish"
 msgstr "Испанская"
@@ -787,7 +787,7 @@ msgid "historic=memorial"
 msgstr "Мемориал"
 
 msgid "historic=mine"
-msgstr "hИсторическая шахта"
+msgstr "Историческая шахта"
 
 msgid "historic=monument"
 msgstr "Памятник"
@@ -976,7 +976,7 @@ msgid "leisure=track"
 msgstr "Беговая дорожка"
 
 msgid "leisure=video_arcade"
-msgstr ""
+msgstr "Игровые автоматы"
 
 msgid "leisure=water_park"
 msgstr "Аквапарк"
@@ -1003,7 +1003,7 @@ msgid "man_made=lighthouse"
 msgstr "Маяк"
 
 msgid "man_made=measurement_station"
-msgstr "Станция взвешивания"
+msgstr "Метеорологическая станция"
 
 msgid "man_made=mineshaft"
 msgstr "Ствол шахты"
@@ -1387,7 +1387,7 @@ msgid "shop=alcohol"
 msgstr "Магазин алкогольных напитков"
 
 msgid "shop=anime"
-msgstr ""
+msgstr "Магазин анимэ"
 
 msgid "shop=art"
 msgstr "Частная галерея искусств"
